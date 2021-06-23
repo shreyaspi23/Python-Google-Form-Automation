@@ -17,7 +17,7 @@ UserNext.click()
 
 time.sleep(2)
 
-password = ()
+password = ('')
 passw = browser.find_element_by_xpath('')
 passw.send_keys(password)
 
